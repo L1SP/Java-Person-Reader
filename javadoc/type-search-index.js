@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.serov.Classes","l":"Division"},{"p":"com.serov.Enums","l":"Gender"},{"p":"com.serov.lab4","l":"Main"},{"p":"com.serov.Classes","l":"Person"},{"p":"com.serov.Classes","l":"Reader"}];updateSearchResults();
